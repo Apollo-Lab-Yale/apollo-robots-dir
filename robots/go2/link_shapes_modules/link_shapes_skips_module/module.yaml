@@ -2,24 +2,7 @@ full_convex_hulls_skips:
 - - true
   - true
   - true
-  - true
   - false
-  - true
-  - true
-  - true
-  - false
-  - true
-  - true
-  - true
-  - false
-  - true
-  - true
-  - true
-  - false
-- - true
-  - true
-  - true
-  - true
   - false
   - true
   - true
@@ -34,12 +17,46 @@ full_convex_hulls_skips:
   - false
   - false
 - - true
+  - true
   - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
   - true
   - true
   - true
   - true
-  - true
+  - false
+  - false
   - false
   - false
   - false
@@ -67,7 +84,9 @@ full_convex_hulls_skips:
   - false
   - false
   - false
-- - false
+- - true
+  - true
+  - true
   - false
   - false
   - true
@@ -75,6 +94,21 @@ full_convex_hulls_skips:
   - false
   - false
   - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - true
+  - true
+  - false
+  - false
+  - true
+  - true
+  - true
   - false
   - false
   - false
@@ -92,7 +126,24 @@ full_convex_hulls_skips:
   - true
   - true
   - true
+  - true
   - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
   - false
   - false
   - false
@@ -106,27 +157,11 @@ full_convex_hulls_skips:
   - false
   - false
   - false
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
   - false
   - false
   - false
   - false
   - true
-  - true
-  - true
   - false
   - false
   - false
@@ -134,25 +169,7 @@ full_convex_hulls_skips:
   - false
   - false
   - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
+- - true
   - false
   - false
   - false
@@ -165,25 +182,25 @@ full_convex_hulls_skips:
   - true
   - true
   - false
-  - true
-  - true
-  - false
-  - false
-- - false
   - false
   - false
   - false
+  - false
+- - true
   - false
   - false
   - false
   - false
   - false
   - false
-  - true
+  - false
+  - false
   - true
   - true
   - true
   - true
+  - false
+  - false
   - false
   - false
 - - false
@@ -203,9 +220,24 @@ full_convex_hulls_skips:
   - false
   - false
   - false
-- - false
+- - true
   - false
   - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - false
+  - false
+  - true
+  - true
+  - false
+  - false
+- - true
   - false
   - false
   - false
@@ -218,26 +250,11 @@ full_convex_hulls_skips:
   - true
   - false
   - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - true
   - true
   - true
   - false
-- - false
+- - true
   - false
   - false
   - false
@@ -269,23 +286,6 @@ full_convex_hulls_skips:
   - false
   - false
   - true
-  - true
-  - true
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - true
   - true
 full_obbs_skips:

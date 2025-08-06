@@ -10,7 +10,6 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/base/8.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/base/9.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/base/10.stl
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/base/11.stl
 - []
 - []
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/0.stl
@@ -18,6 +17,14 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/2.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/3.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/4.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/5.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/6.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/7.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/8.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/9.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/10.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/11.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/12.stl
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/0.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/1.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/2.stl
@@ -28,7 +35,6 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/7.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/8.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/9.stl
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/10.stl
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/0.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/1.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/2.stl
@@ -37,7 +43,6 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/5.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/6.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/7.stl
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/8.stl
 - []
 - []
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/0.stl
@@ -47,11 +52,20 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/4.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/5.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/6.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/7.stl
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/0.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/1.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/2.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/3.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/4.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/5.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/6.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/7.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/8.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/9.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/10.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/11.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/12.stl
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh_mirror/0.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh_mirror/1.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh_mirror/2.stl
@@ -81,11 +95,20 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/4.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/5.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/6.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/7.stl
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/0.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/1.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/2.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/3.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/4.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/5.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/6.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/7.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/8.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/9.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/10.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/11.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/12.stl
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/0.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/1.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/2.stl
@@ -96,7 +119,6 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/7.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/8.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/9.stl
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh/10.stl
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/0.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/1.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/2.stl
@@ -105,7 +127,6 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/5.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/6.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/7.stl
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/calf/8.stl
 - []
 - []
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/0.stl
@@ -115,11 +136,20 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/4.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/5.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/6.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/7.stl
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/0.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/1.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/2.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/3.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/4.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/5.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/6.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/7.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/8.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/9.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/10.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/11.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/hip/12.stl
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh_mirror/0.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh_mirror/1.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/thigh_mirror/2.stl
@@ -149,6 +179,7 @@ stl_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/4.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/5.stl
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/6.stl
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/stl/foot/7.stl
 - []
 - []
 obj_link_mesh_relative_paths:
@@ -163,7 +194,6 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/base/8.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/base/9.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/base/10.obj
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/base/11.obj
 - []
 - []
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/0.obj
@@ -171,6 +201,14 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/2.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/3.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/4.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/5.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/6.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/7.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/8.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/9.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/10.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/11.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/12.obj
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/0.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/1.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/2.obj
@@ -181,7 +219,6 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/7.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/8.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/9.obj
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/10.obj
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/0.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/1.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/2.obj
@@ -190,7 +227,6 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/5.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/6.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/7.obj
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/8.obj
 - []
 - []
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/0.obj
@@ -200,11 +236,20 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/4.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/5.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/6.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/7.obj
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/0.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/1.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/2.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/3.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/4.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/5.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/6.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/7.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/8.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/9.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/10.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/11.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/12.obj
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh_mirror/0.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh_mirror/1.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh_mirror/2.obj
@@ -234,11 +279,20 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/4.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/5.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/6.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/7.obj
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/0.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/1.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/2.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/3.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/4.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/5.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/6.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/7.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/8.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/9.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/10.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/11.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/12.obj
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/0.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/1.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/2.obj
@@ -249,7 +303,6 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/7.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/8.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/9.obj
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh/10.obj
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/0.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/1.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/2.obj
@@ -258,7 +311,6 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/5.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/6.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/7.obj
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/calf/8.obj
 - []
 - []
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/0.obj
@@ -268,11 +320,20 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/4.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/5.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/6.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/7.obj
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/0.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/1.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/2.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/3.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/4.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/5.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/6.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/7.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/8.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/9.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/10.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/11.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/hip/12.obj
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh_mirror/0.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh_mirror/1.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/thigh_mirror/2.obj
@@ -302,6 +363,7 @@ obj_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/4.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/5.obj
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/6.obj
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/obj/foot/7.obj
 - []
 - []
 glb_link_mesh_relative_paths:
@@ -316,7 +378,6 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/base/8.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/base/9.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/base/10.glb
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/base/11.glb
 - []
 - []
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/0.glb
@@ -324,6 +385,14 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/2.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/3.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/4.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/5.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/6.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/7.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/8.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/9.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/10.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/11.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/12.glb
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/0.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/1.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/2.glb
@@ -334,7 +403,6 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/7.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/8.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/9.glb
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/10.glb
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/0.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/1.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/2.glb
@@ -343,7 +411,6 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/5.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/6.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/7.glb
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/8.glb
 - []
 - []
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/0.glb
@@ -353,11 +420,20 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/4.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/5.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/6.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/7.glb
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/0.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/1.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/2.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/3.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/4.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/5.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/6.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/7.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/8.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/9.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/10.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/11.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/12.glb
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh_mirror/0.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh_mirror/1.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh_mirror/2.glb
@@ -387,11 +463,20 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/4.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/5.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/6.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/7.glb
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/0.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/1.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/2.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/3.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/4.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/5.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/6.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/7.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/8.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/9.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/10.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/11.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/12.glb
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/0.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/1.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/2.glb
@@ -402,7 +487,6 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/7.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/8.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/9.glb
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh/10.glb
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/0.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/1.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/2.glb
@@ -411,7 +495,6 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/5.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/6.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/7.glb
-  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/calf/8.glb
 - []
 - []
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/0.glb
@@ -421,11 +504,20 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/4.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/5.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/6.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/7.glb
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/0.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/1.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/2.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/3.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/4.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/5.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/6.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/7.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/8.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/9.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/10.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/11.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/hip/12.glb
 - - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh_mirror/0.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh_mirror/1.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/thigh_mirror/2.glb
@@ -455,5 +547,6 @@ glb_link_mesh_relative_paths:
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/4.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/5.glb
   - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/6.glb
+  - go2/mesh_modules/convex_decomposition_meshes_module/meshes/glb/foot/7.glb
 - []
 - []

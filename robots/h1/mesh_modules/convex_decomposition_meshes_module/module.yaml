@@ -37,7 +37,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_hip_pitch_link/5.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_hip_pitch_link/6.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_hip_pitch_link/7.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_hip_pitch_link/8.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_knee_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_knee_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_knee_link/2.stl
@@ -46,7 +45,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_knee_link/5.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_knee_link/6.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_knee_link/7.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_knee_link/8.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_ankle_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_ankle_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_ankle_link/2.stl
@@ -54,7 +52,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_ankle_link/4.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_ankle_link/5.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_ankle_link/6.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_ankle_link/7.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_yaw_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_yaw_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_yaw_link/2.stl
@@ -64,7 +61,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_yaw_link/6.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_yaw_link/7.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_yaw_link/8.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_yaw_link/9.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_roll_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_roll_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_roll_link/2.stl
@@ -76,6 +72,7 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_roll_link/8.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_roll_link/9.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_roll_link/10.stl
+  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_roll_link/11.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_pitch_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_pitch_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_pitch_link/2.stl
@@ -84,7 +81,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_pitch_link/5.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_pitch_link/6.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_pitch_link/7.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_hip_pitch_link/8.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_knee_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_knee_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_knee_link/2.stl
@@ -92,7 +88,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_knee_link/4.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_knee_link/5.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_knee_link/6.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_knee_link/7.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_ankle_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_ankle_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_ankle_link/2.stl
@@ -100,7 +95,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_ankle_link/4.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_ankle_link/5.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_ankle_link/6.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_ankle_link/7.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/torso_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/torso_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/torso_link/2.stl
@@ -109,7 +103,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/torso_link/5.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/torso_link/6.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/torso_link/7.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/torso_link/8.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_shoulder_pitch_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_shoulder_pitch_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_shoulder_pitch_link/2.stl
@@ -139,7 +132,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_shoulder_yaw_link/6.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_shoulder_yaw_link/7.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_shoulder_yaw_link/8.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_shoulder_yaw_link/9.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_elbow_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_elbow_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_elbow_link/2.stl
@@ -150,6 +142,8 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_elbow_link/7.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_elbow_link/8.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_elbow_link/9.stl
+  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_elbow_link/10.stl
+  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/left_elbow_link/11.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_pitch_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_pitch_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_pitch_link/2.stl
@@ -170,7 +164,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_roll_link/9.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_roll_link/10.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_roll_link/11.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_roll_link/12.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_yaw_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_yaw_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_yaw_link/2.stl
@@ -180,7 +173,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_yaw_link/6.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_yaw_link/7.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_yaw_link/8.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_shoulder_yaw_link/9.stl
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_elbow_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_elbow_link/1.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_elbow_link/2.stl
@@ -190,8 +182,6 @@ stl_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_elbow_link/6.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_elbow_link/7.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_elbow_link/8.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_elbow_link/9.stl
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/right_elbow_link/10.stl
 - []
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/logo_link/0.stl
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/stl/logo_link/1.stl
@@ -239,7 +229,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_hip_pitch_link/5.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_hip_pitch_link/6.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_hip_pitch_link/7.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_hip_pitch_link/8.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_knee_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_knee_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_knee_link/2.obj
@@ -248,7 +237,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_knee_link/5.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_knee_link/6.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_knee_link/7.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_knee_link/8.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_ankle_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_ankle_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_ankle_link/2.obj
@@ -256,7 +244,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_ankle_link/4.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_ankle_link/5.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_ankle_link/6.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_ankle_link/7.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_yaw_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_yaw_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_yaw_link/2.obj
@@ -266,7 +253,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_yaw_link/6.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_yaw_link/7.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_yaw_link/8.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_yaw_link/9.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_roll_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_roll_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_roll_link/2.obj
@@ -278,6 +264,7 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_roll_link/8.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_roll_link/9.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_roll_link/10.obj
+  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_roll_link/11.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_pitch_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_pitch_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_pitch_link/2.obj
@@ -286,7 +273,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_pitch_link/5.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_pitch_link/6.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_pitch_link/7.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_hip_pitch_link/8.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_knee_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_knee_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_knee_link/2.obj
@@ -294,7 +280,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_knee_link/4.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_knee_link/5.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_knee_link/6.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_knee_link/7.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_ankle_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_ankle_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_ankle_link/2.obj
@@ -302,7 +287,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_ankle_link/4.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_ankle_link/5.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_ankle_link/6.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_ankle_link/7.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/torso_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/torso_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/torso_link/2.obj
@@ -311,7 +295,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/torso_link/5.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/torso_link/6.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/torso_link/7.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/torso_link/8.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_shoulder_pitch_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_shoulder_pitch_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_shoulder_pitch_link/2.obj
@@ -341,7 +324,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_shoulder_yaw_link/6.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_shoulder_yaw_link/7.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_shoulder_yaw_link/8.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_shoulder_yaw_link/9.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_elbow_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_elbow_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_elbow_link/2.obj
@@ -352,6 +334,8 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_elbow_link/7.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_elbow_link/8.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_elbow_link/9.obj
+  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_elbow_link/10.obj
+  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/left_elbow_link/11.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_pitch_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_pitch_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_pitch_link/2.obj
@@ -372,7 +356,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_roll_link/9.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_roll_link/10.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_roll_link/11.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_roll_link/12.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_yaw_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_yaw_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_yaw_link/2.obj
@@ -382,7 +365,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_yaw_link/6.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_yaw_link/7.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_yaw_link/8.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_shoulder_yaw_link/9.obj
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_elbow_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_elbow_link/1.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_elbow_link/2.obj
@@ -392,8 +374,6 @@ obj_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_elbow_link/6.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_elbow_link/7.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_elbow_link/8.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_elbow_link/9.obj
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/right_elbow_link/10.obj
 - []
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/logo_link/0.obj
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/obj/logo_link/1.obj
@@ -441,7 +421,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_hip_pitch_link/5.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_hip_pitch_link/6.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_hip_pitch_link/7.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_hip_pitch_link/8.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_knee_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_knee_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_knee_link/2.glb
@@ -450,7 +429,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_knee_link/5.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_knee_link/6.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_knee_link/7.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_knee_link/8.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_ankle_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_ankle_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_ankle_link/2.glb
@@ -458,7 +436,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_ankle_link/4.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_ankle_link/5.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_ankle_link/6.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_ankle_link/7.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_yaw_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_yaw_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_yaw_link/2.glb
@@ -468,7 +445,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_yaw_link/6.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_yaw_link/7.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_yaw_link/8.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_yaw_link/9.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_roll_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_roll_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_roll_link/2.glb
@@ -480,6 +456,7 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_roll_link/8.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_roll_link/9.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_roll_link/10.glb
+  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_roll_link/11.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_pitch_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_pitch_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_pitch_link/2.glb
@@ -488,7 +465,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_pitch_link/5.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_pitch_link/6.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_pitch_link/7.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_hip_pitch_link/8.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_knee_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_knee_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_knee_link/2.glb
@@ -496,7 +472,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_knee_link/4.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_knee_link/5.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_knee_link/6.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_knee_link/7.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_ankle_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_ankle_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_ankle_link/2.glb
@@ -504,7 +479,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_ankle_link/4.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_ankle_link/5.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_ankle_link/6.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_ankle_link/7.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/torso_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/torso_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/torso_link/2.glb
@@ -513,7 +487,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/torso_link/5.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/torso_link/6.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/torso_link/7.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/torso_link/8.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_shoulder_pitch_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_shoulder_pitch_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_shoulder_pitch_link/2.glb
@@ -543,7 +516,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_shoulder_yaw_link/6.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_shoulder_yaw_link/7.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_shoulder_yaw_link/8.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_shoulder_yaw_link/9.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_elbow_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_elbow_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_elbow_link/2.glb
@@ -554,6 +526,8 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_elbow_link/7.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_elbow_link/8.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_elbow_link/9.glb
+  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_elbow_link/10.glb
+  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/left_elbow_link/11.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_pitch_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_pitch_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_pitch_link/2.glb
@@ -574,7 +548,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_roll_link/9.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_roll_link/10.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_roll_link/11.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_roll_link/12.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_yaw_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_yaw_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_yaw_link/2.glb
@@ -584,7 +557,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_yaw_link/6.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_yaw_link/7.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_yaw_link/8.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_shoulder_yaw_link/9.glb
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_elbow_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_elbow_link/1.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_elbow_link/2.glb
@@ -594,8 +566,6 @@ glb_link_mesh_relative_paths:
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_elbow_link/6.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_elbow_link/7.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_elbow_link/8.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_elbow_link/9.glb
-  - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/right_elbow_link/10.glb
 - []
 - - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/logo_link/0.glb
   - h1/mesh_modules/convex_decomposition_meshes_module/meshes/glb/logo_link/1.glb

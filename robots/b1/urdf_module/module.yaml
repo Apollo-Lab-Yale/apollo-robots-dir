@@ -50,7 +50,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 25.0
+      value: 29.45
     inertia:
       ixx: 0.183142146
       ixy: -0.001379002
@@ -70,7 +70,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/trunk.dae
+      filename: package://b1_description/meshes/trunkb.dae
       scale:
       - 1.0
       - 1.0
@@ -90,11 +90,12 @@ links:
       - 0.0
       - 0.0
       - 0.0
-    geometry: !Box
-      size:
-      - 0.647
-      - 0.3
-      - 0.15
+    geometry: !Mesh
+      filename: package://b1_description/meshes/trunkb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: imu_link
   inertial:
     origin:
@@ -151,6 +152,116 @@ links:
       - 0.001
       - 0.001
       - 0.001
+- name: left_side_camera_link
+  inertial:
+    origin:
+      xyz:
+      - 0.0
+      - 0.0
+      - 0.0
+      rpy:
+      - 0.0
+      - 0.0
+      - 0.0
+    mass:
+      value: 0.001
+    inertia:
+      ixx: 0.0001
+      ixy: 0.0
+      ixz: 0.0
+      iyy: 0.0001
+      iyz: 0.0
+      izz: 0.0001
+  visual: []
+  collision: []
+- name: right_side_camera_link
+  inertial:
+    origin:
+      xyz:
+      - 0.0
+      - 0.0
+      - 0.0
+      rpy:
+      - 0.0
+      - 0.0
+      - 0.0
+    mass:
+      value: 0.001
+    inertia:
+      ixx: 0.0001
+      ixy: 0.0
+      ixz: 0.0
+      iyy: 0.0001
+      iyz: 0.0
+      izz: 0.0001
+  visual: []
+  collision: []
+- name: head_camera_1_link
+  inertial:
+    origin:
+      xyz:
+      - 0.0
+      - 0.0
+      - 0.0
+      rpy:
+      - 0.0
+      - 0.0
+      - 0.0
+    mass:
+      value: 0.001
+    inertia:
+      ixx: 0.0001
+      ixy: 0.0
+      ixz: 0.0
+      iyy: 0.0001
+      iyz: 0.0
+      izz: 0.0001
+  visual: []
+  collision: []
+- name: head_camera_2_link
+  inertial:
+    origin:
+      xyz:
+      - 0.0
+      - 0.0
+      - 0.0
+      rpy:
+      - 0.0
+      - 0.0
+      - 0.0
+    mass:
+      value: 0.001
+    inertia:
+      ixx: 0.0001
+      ixy: 0.0
+      ixz: 0.0
+      iyy: 0.0001
+      iyz: 0.0
+      izz: 0.0001
+  visual: []
+  collision: []
+- name: tail_camera_link
+  inertial:
+    origin:
+      xyz:
+      - 0.0
+      - 0.0
+      - 0.0
+      rpy:
+      - 0.0
+      - 0.0
+      - 0.0
+    mass:
+      value: 0.001
+    inertia:
+      ixx: 0.0001
+      ixy: 0.0
+      ixz: 0.0
+      iyy: 0.0001
+      iyz: 0.0
+      izz: 0.0001
+  visual: []
+  collision: []
 - name: FR_hip
   inertial:
     origin:
@@ -163,7 +274,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 2.1
+      value: 2.15
     inertia:
       ixx: 0.00406608
       ixy: 0.000288071
@@ -183,7 +294,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/hip.dae
+      filename: package://b1_description/meshes/hipb.dae
       scale:
       - 1.0
       - 1.0
@@ -197,15 +308,18 @@ links:
     origin:
       xyz:
       - 0.0
-      - -0.12675
+      - 0.0
       - 0.0
       rpy:
-      - 1.5707963267948966
+      - 3.141592653589793
       - 0.0
       - 0.0
-    geometry: !Cylinder
-      radius: 0.09
-      length: 0.04
+    geometry: !Mesh
+      filename: package://b1_description/meshes/hipb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: FR_hip_rotor
   inertial:
     origin:
@@ -270,7 +384,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 3.934
+      value: 4.3
     inertia:
       ixx: 0.044459086
       ixy: -0.000128738
@@ -290,7 +404,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/thigh_mirror.dae
+      filename: package://b1_description/meshes/thigh_mirrorb.dae
       scale:
       - 1.0
       - 1.0
@@ -305,16 +419,17 @@ links:
       xyz:
       - 0.0
       - 0.0
-      - -0.175
+      - 0.0
       rpy:
       - 0.0
-      - 1.5707963267948966
       - 0.0
-    geometry: !Box
-      size:
-      - 0.35
-      - 0.05
-      - 0.08
+      - 0.0
+    geometry: !Mesh
+      filename: package://b1_description/meshes/thigh_mirrorb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: FR_thigh_rotor
   inertial:
     origin:
@@ -379,7 +494,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 0.857
+      value: 1.05
     inertia:
       ixx: 0.015011003
       ixy: 5.2e-8
@@ -399,7 +514,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/calf.dae
+      filename: package://b1_description/meshes/calfb.dae
       scale:
       - 1.0
       - 1.0
@@ -414,16 +529,17 @@ links:
       xyz:
       - 0.0
       - 0.0
-      - -0.175
+      - 0.0
       rpy:
       - 0.0
-      - 1.5707963267948966
       - 0.0
-    geometry: !Box
-      size:
-      - 0.35
-      - 0.04
-      - 0.05
+      - 0.0
+    geometry: !Mesh
+      filename: package://b1_description/meshes/calfb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: FR_calf_rotor
   inertial:
     origin:
@@ -538,7 +654,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 2.1
+      value: 2.15
     inertia:
       ixx: 0.00406608
       ixy: -0.000288071
@@ -558,7 +674,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/hip.dae
+      filename: package://b1_description/meshes/hipb.dae
       scale:
       - 1.0
       - 1.0
@@ -572,15 +688,18 @@ links:
     origin:
       xyz:
       - 0.0
-      - 0.12675
+      - 0.0
       - 0.0
       rpy:
-      - 1.5707963267948966
       - 0.0
       - 0.0
-    geometry: !Cylinder
-      radius: 0.09
-      length: 0.04
+      - 0.0
+    geometry: !Mesh
+      filename: package://b1_description/meshes/hipb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: FL_hip_rotor
   inertial:
     origin:
@@ -645,7 +764,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 3.934
+      value: 4.3
     inertia:
       ixx: 0.044459086
       ixy: 0.000128738
@@ -665,7 +784,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/thigh.dae
+      filename: package://b1_description/meshes/thighb.dae
       scale:
       - 1.0
       - 1.0
@@ -680,16 +799,17 @@ links:
       xyz:
       - 0.0
       - 0.0
-      - -0.175
+      - 0.0
       rpy:
       - 0.0
-      - 1.5707963267948966
       - 0.0
-    geometry: !Box
-      size:
-      - 0.35
-      - 0.05
-      - 0.08
+      - 0.0
+    geometry: !Mesh
+      filename: package://b1_description/meshes/thighb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: FL_thigh_rotor
   inertial:
     origin:
@@ -754,7 +874,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 0.857
+      value: 1.05
     inertia:
       ixx: 0.015011003
       ixy: 5.2e-8
@@ -774,7 +894,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/calf.dae
+      filename: package://b1_description/meshes/calfb.dae
       scale:
       - 1.0
       - 1.0
@@ -789,16 +909,17 @@ links:
       xyz:
       - 0.0
       - 0.0
-      - -0.175
+      - 0.0
       rpy:
       - 0.0
-      - 1.5707963267948966
       - 0.0
-    geometry: !Box
-      size:
-      - 0.35
-      - 0.04
-      - 0.05
+      - 0.0
+    geometry: !Mesh
+      filename: package://b1_description/meshes/calfb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: FL_calf_rotor
   inertial:
     origin:
@@ -913,7 +1034,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 2.1
+      value: 2.15
     inertia:
       ixx: 0.00406608
       ixy: -0.000288071
@@ -933,7 +1054,7 @@ links:
       - 3.141592653589793
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/hip.dae
+      filename: package://b1_description/meshes/hipb.dae
       scale:
       - 1.0
       - 1.0
@@ -947,15 +1068,18 @@ links:
     origin:
       xyz:
       - 0.0
-      - -0.12675
+      - 0.0
       - 0.0
       rpy:
-      - 1.5707963267948966
+      - 3.141592653589793
+      - 3.141592653589793
       - 0.0
-      - 0.0
-    geometry: !Cylinder
-      radius: 0.09
-      length: 0.04
+    geometry: !Mesh
+      filename: package://b1_description/meshes/hipb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: RR_hip_rotor
   inertial:
     origin:
@@ -1020,7 +1144,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 3.934
+      value: 4.3
     inertia:
       ixx: 0.044459086
       ixy: -0.000128738
@@ -1040,7 +1164,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/thigh_mirror.dae
+      filename: package://b1_description/meshes/thigh_mirrorb.dae
       scale:
       - 1.0
       - 1.0
@@ -1055,16 +1179,17 @@ links:
       xyz:
       - 0.0
       - 0.0
-      - -0.175
+      - 0.0
       rpy:
       - 0.0
-      - 1.5707963267948966
       - 0.0
-    geometry: !Box
-      size:
-      - 0.35
-      - 0.05
-      - 0.08
+      - 0.0
+    geometry: !Mesh
+      filename: package://b1_description/meshes/thigh_mirrorb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: RR_thigh_rotor
   inertial:
     origin:
@@ -1129,7 +1254,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 0.857
+      value: 1.05
     inertia:
       ixx: 0.015011003
       ixy: 5.2e-8
@@ -1149,7 +1274,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/calf.dae
+      filename: package://b1_description/meshes/calfb.dae
       scale:
       - 1.0
       - 1.0
@@ -1164,16 +1289,17 @@ links:
       xyz:
       - 0.0
       - 0.0
-      - -0.175
+      - 0.0
       rpy:
       - 0.0
-      - 1.5707963267948966
       - 0.0
-    geometry: !Box
-      size:
-      - 0.35
-      - 0.04
-      - 0.05
+      - 0.0
+    geometry: !Mesh
+      filename: package://b1_description/meshes/calfb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: RR_calf_rotor
   inertial:
     origin:
@@ -1288,7 +1414,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 2.1
+      value: 2.15
     inertia:
       ixx: 0.00406608
       ixy: 0.000288071
@@ -1308,7 +1434,7 @@ links:
       - 3.141592653589793
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/hip.dae
+      filename: package://b1_description/meshes/hipb.dae
       scale:
       - 1.0
       - 1.0
@@ -1322,15 +1448,18 @@ links:
     origin:
       xyz:
       - 0.0
-      - 0.12675
+      - 0.0
       - 0.0
       rpy:
-      - 1.5707963267948966
       - 0.0
+      - 3.141592653589793
       - 0.0
-    geometry: !Cylinder
-      radius: 0.09
-      length: 0.04
+    geometry: !Mesh
+      filename: package://b1_description/meshes/hipb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: RL_hip_rotor
   inertial:
     origin:
@@ -1395,7 +1524,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 3.934
+      value: 4.3
     inertia:
       ixx: 0.044459086
       ixy: 0.000128738
@@ -1415,7 +1544,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/thigh.dae
+      filename: package://b1_description/meshes/thighb.dae
       scale:
       - 1.0
       - 1.0
@@ -1430,16 +1559,17 @@ links:
       xyz:
       - 0.0
       - 0.0
-      - -0.175
+      - 0.0
       rpy:
       - 0.0
-      - 1.5707963267948966
       - 0.0
-    geometry: !Box
-      size:
-      - 0.35
-      - 0.05
-      - 0.08
+      - 0.0
+    geometry: !Mesh
+      filename: package://b1_description/meshes/thighb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: RL_thigh_rotor
   inertial:
     origin:
@@ -1504,7 +1634,7 @@ links:
       - 0.0
       - 0.0
     mass:
-      value: 0.857
+      value: 1.05
     inertia:
       ixx: 0.015011003
       ixy: 5.2e-8
@@ -1524,7 +1654,7 @@ links:
       - 0.0
       - 0.0
     geometry: !Mesh
-      filename: package://b1_description/meshes/calf.dae
+      filename: package://b1_description/meshes/calfb.dae
       scale:
       - 1.0
       - 1.0
@@ -1539,16 +1669,17 @@ links:
       xyz:
       - 0.0
       - 0.0
-      - -0.175
+      - 0.0
       rpy:
       - 0.0
-      - 1.5707963267948966
       - 0.0
-    geometry: !Box
-      size:
-      - 0.35
-      - 0.04
-      - 0.05
+      - 0.0
+    geometry: !Mesh
+      filename: package://b1_description/meshes/calfb.dae
+      scale:
+      - 1.0
+      - 1.0
+      - 1.0
 - name: RL_calf_rotor
   inertial:
     origin:
@@ -1695,6 +1826,146 @@ joints:
     link: trunk
   child:
     link: imu_link
+  axis:
+    xyz:
+    - 0.0
+    - 0.0
+    - 0.0
+  limit:
+    lower: 0.0
+    upper: 0.0
+    effort: 0.0
+    velocity: 0.0
+  dynamics: null
+  mimic: null
+  safety_controller: null
+- name: left_side_camera_joint
+  joint_type: Fixed
+  origin:
+    xyz:
+    - -0.1086
+    - 0.1371
+    - -0.03077
+    rpy:
+    - -0.331612
+    - 0.0
+    - 0.0
+  parent:
+    link: trunk
+  child:
+    link: left_side_camera_link
+  axis:
+    xyz:
+    - 0.0
+    - 0.0
+    - 0.0
+  limit:
+    lower: 0.0
+    upper: 0.0
+    effort: 0.0
+    velocity: 0.0
+  dynamics: null
+  mimic: null
+  safety_controller: null
+- name: right_side_camera_joint
+  joint_type: Fixed
+  origin:
+    xyz:
+    - -0.1019
+    - -0.1371
+    - -0.03077
+    rpy:
+    - 0.331612
+    - 0.0
+    - 0.0
+  parent:
+    link: trunk
+  child:
+    link: right_side_camera_link
+  axis:
+    xyz:
+    - 0.0
+    - 0.0
+    - 0.0
+  limit:
+    lower: 0.0
+    upper: 0.0
+    effort: 0.0
+    velocity: 0.0
+  dynamics: null
+  mimic: null
+  safety_controller: null
+- name: head_camera_1_joint
+  joint_type: Fixed
+  origin:
+    xyz:
+    - 0.48883
+    - 0.0
+    - 0.0255
+    rpy:
+    - 0.0
+    - 0.0
+    - 0.0
+  parent:
+    link: trunk
+  child:
+    link: head_camera_1_link
+  axis:
+    xyz:
+    - 0.0
+    - 0.0
+    - 0.0
+  limit:
+    lower: 0.0
+    upper: 0.0
+    effort: 0.0
+    velocity: 0.0
+  dynamics: null
+  mimic: null
+  safety_controller: null
+- name: head_camera_2_joint
+  joint_type: Fixed
+  origin:
+    xyz:
+    - 0.4543
+    - 0.0
+    - -0.081
+    rpy:
+    - 0.0
+    - 0.0
+    - 0.0
+  parent:
+    link: trunk
+  child:
+    link: head_camera_2_link
+  axis:
+    xyz:
+    - 0.0
+    - 0.0
+    - 0.0
+  limit:
+    lower: 0.0
+    upper: 0.0
+    effort: 0.0
+    velocity: 0.0
+  dynamics: null
+  mimic: null
+  safety_controller: null
+- name: tail_camera_joint
+  joint_type: Fixed
+  origin:
+    xyz:
+    - -0.459
+    - 0.0
+    - -0.081
+    rpy:
+    - 0.0
+    - 0.0
+    - 0.0
+  parent:
+    link: trunk
+  child:
+    link: tail_camera_link
   axis:
     xyz:
     - 0.0

@@ -156,55 +156,13 @@ decomposition_convex_hulls_simple_skips:
   - true
   - false
   - false
-  - true
-  - false
-  - false
-  - true
-  - true
   - false
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - true
-  - true
   - true
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
+  - true
   - false
   - false
   - false
@@ -241,48 +199,6 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
@@ -364,6 +280,139 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
+  - false
+- - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
 - - false
   - false
   - false
@@ -407,6 +456,7 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
+  - false
 - - false
   - false
   - false
@@ -423,9 +473,10 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - false
+  - false
+  - false
+  - false
   - true
-  - false
-  - false
   - false
   - false
   - false
@@ -469,6 +520,139 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - true
+  - false
+  - false
+  - true
   - false
   - false
   - false
@@ -511,48 +695,6 @@ decomposition_convex_hulls_simple_skips:
   - false
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
   - false
   - false
   - false
@@ -598,49 +740,7 @@ decomposition_convex_hulls_simple_skips:
   - true
   - false
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - false
-  - false
-  - false
-  - false
   - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
-  - false
-  - false
   - false
   - false
   - false
@@ -683,91 +783,6 @@ decomposition_convex_hulls_simple_skips:
   - false
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
   - false
   - false
   - false
@@ -837,48 +852,6 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - false
 - - false
   - false
@@ -886,11 +859,7 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
+  - true
   - false
   - false
   - false
@@ -902,6 +871,11 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - true
+  - true
+  - true
+  - true
+  - true
+  - false
   - false
   - false
   - false
@@ -966,48 +940,6 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - false
 - - false
   - false
@@ -1032,12 +964,13 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - false
-  - true
   - false
   - false
   - false
   - false
-  - true
+  - false
+  - false
+  - false
   - false
   - false
   - false
@@ -1057,15 +990,15 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
+  - true
   - false
+  - true
+  - true
+  - true
+  - true
+  - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
+  - true
   - false
   - true
   - true
@@ -1075,12 +1008,13 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - false
-  - true
   - false
   - false
   - false
   - false
-  - true
+  - false
+  - false
+  - false
   - false
   - false
   - false
@@ -1110,21 +1044,22 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
   - false
   - false
   - false
   - false
   - false
   - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
@@ -1153,21 +1088,22 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
   - false
   - false
   - false
   - false
   - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
+  - false
   - false
   - false
   - false
@@ -1209,8 +1145,9 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - true
-  - true
-  - true
+  - false
+  - false
+  - false
   - false
   - false
   - false
@@ -1252,8 +1189,53 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
   - true
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
   - false
   - false
   - false
@@ -1295,94 +1277,9 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
@@ -1424,6 +1321,144 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
   - true
   - true
   - false
@@ -1431,6 +1466,89 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
   - false
   - false
   - false
@@ -1467,6 +1585,47 @@ decomposition_convex_hulls_simple_skips:
   - false
   - true
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
   - false
   - false
   - true
@@ -1475,6 +1634,10 @@ decomposition_convex_hulls_simple_skips:
   - true
   - true
   - true
+  - true
+  - true
+  - true
+  - false
   - false
   - false
   - false
@@ -1510,14 +1673,15 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
   - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
@@ -1553,53 +1717,6 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - true
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
   - true
   - true
   - true
@@ -1610,263 +1727,10 @@ decomposition_convex_hulls_simple_skips:
   - true
   - false
   - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - true
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
   - true
   - false
   - true
-  - true
-  - true
-  - true
-  - true
   - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
 - - false
@@ -1905,6 +1769,7 @@ decomposition_convex_hulls_simple_skips:
   - false
   - false
   - false
+  - true
   - true
   - true
   - true
@@ -1950,12 +1815,234 @@ decomposition_convex_hulls_simple_skips:
   - false
   - true
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - false
   - false
   - false
   - true
   - true
   - true
 - - false
+  - false
   - false
   - false
   - false
@@ -2006,55 +2093,13 @@ decomposition_obbs_simple_skips:
   - true
   - false
   - false
-  - true
-  - false
-  - false
-  - true
-  - true
   - false
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - true
-  - true
   - true
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
+  - true
   - false
   - false
   - false
@@ -2091,48 +2136,6 @@ decomposition_obbs_simple_skips:
   - true
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
@@ -2214,6 +2217,139 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
+  - false
+- - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
 - - false
   - false
   - false
@@ -2257,6 +2393,7 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
+  - false
 - - false
   - false
   - false
@@ -2273,9 +2410,10 @@ decomposition_obbs_simple_skips:
   - true
   - true
   - false
+  - false
+  - false
+  - false
   - true
-  - false
-  - false
   - false
   - false
   - false
@@ -2319,6 +2457,139 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - true
+  - false
+  - false
+  - true
   - false
   - false
   - false
@@ -2361,48 +2632,6 @@ decomposition_obbs_simple_skips:
   - false
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
   - false
   - false
   - false
@@ -2448,49 +2677,7 @@ decomposition_obbs_simple_skips:
   - true
   - false
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - false
-  - false
-  - false
-  - false
   - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
-  - false
-  - false
   - false
   - false
   - false
@@ -2533,91 +2720,6 @@ decomposition_obbs_simple_skips:
   - false
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
   - false
   - false
   - false
@@ -2687,48 +2789,6 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - false
 - - false
   - false
@@ -2736,11 +2796,7 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
+  - true
   - false
   - false
   - false
@@ -2752,6 +2808,11 @@ decomposition_obbs_simple_skips:
   - true
   - true
   - true
+  - true
+  - true
+  - true
+  - true
+  - false
   - false
   - false
   - false
@@ -2816,48 +2877,6 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - false
 - - false
   - false
@@ -2882,12 +2901,13 @@ decomposition_obbs_simple_skips:
   - true
   - true
   - false
-  - true
   - false
   - false
   - false
   - false
-  - true
+  - false
+  - false
+  - false
   - false
   - false
   - false
@@ -2907,15 +2927,15 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
+  - true
   - false
+  - true
+  - true
+  - true
+  - true
+  - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
+  - true
   - false
   - true
   - true
@@ -2925,12 +2945,13 @@ decomposition_obbs_simple_skips:
   - true
   - true
   - false
-  - true
   - false
   - false
   - false
   - false
-  - true
+  - false
+  - false
+  - false
   - false
   - false
   - false
@@ -2960,21 +2981,22 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
   - false
   - false
   - false
   - false
   - false
   - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
@@ -3003,21 +3025,22 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
   - false
   - false
   - false
   - false
   - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
+  - false
   - false
   - false
   - false
@@ -3059,8 +3082,9 @@ decomposition_obbs_simple_skips:
   - true
   - true
   - true
-  - true
-  - true
+  - false
+  - false
+  - false
   - false
   - false
   - false
@@ -3102,8 +3126,53 @@ decomposition_obbs_simple_skips:
   - true
   - true
   - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
   - true
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
   - false
   - false
   - false
@@ -3145,94 +3214,9 @@ decomposition_obbs_simple_skips:
   - true
   - true
   - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
@@ -3274,6 +3258,144 @@ decomposition_obbs_simple_skips:
   - true
   - true
   - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
   - true
   - true
   - false
@@ -3281,6 +3403,89 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
   - false
   - false
   - false
@@ -3317,57 +3522,15 @@ decomposition_obbs_simple_skips:
   - false
   - true
   - true
-  - false
-  - false
   - true
   - true
   - true
   - true
   - true
   - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
   - true
   - true
-  - true
-  - true
-  - true
-  - true
+  - false
   - false
   - false
   - false
@@ -3402,53 +3565,6 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - true
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
   - true
   - true
   - true
@@ -3460,46 +3576,8 @@ decomposition_obbs_simple_skips:
   - true
   - false
   - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - true
   - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - true
   - false
   - false
   - false
@@ -3532,17 +3610,18 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
   - false
   - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
-  - true
   - false
   - false
   - false
@@ -3575,97 +3654,6 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
   - true
   - true
   - true
@@ -3676,47 +3664,10 @@ decomposition_obbs_simple_skips:
   - true
   - false
   - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
+  - true
   - false
   - true
   - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
 - - false
@@ -3755,6 +3706,7 @@ decomposition_obbs_simple_skips:
   - false
   - false
   - false
+  - true
   - true
   - true
   - true
@@ -3800,12 +3752,234 @@ decomposition_obbs_simple_skips:
   - false
   - true
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - false
   - false
   - false
   - true
   - true
   - true
 - - false
+  - false
   - false
   - false
   - false
@@ -3856,18 +4030,19 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - false
   - false
+  - false
+  - true
+  - false
   - true
   - true
   - false
   - true
-  - true
-  - false
-  - true
   - false
   - false
   - true
   - false
   - false
+  - true
   - false
   - false
   - false
@@ -3900,7 +4075,10 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
+  - true
   - false
+  - false
+  - true
   - false
   - false
   - false
@@ -3909,8 +4087,6 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - true
-  - false
-  - false
   - false
   - false
   - false
@@ -3942,6 +4118,9 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - false
   - false
+  - false
+  - true
+  - false
   - true
   - true
   - true
@@ -3952,8 +4131,6 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - true
-  - false
-  - false
   - false
   - false
   - false
@@ -3985,18 +4162,19 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - false
   - false
+  - false
+  - true
+  - false
   - true
   - true
   - false
   - true
-  - true
+  - false
+  - false
+  - false
+  - false
   - false
   - true
-  - false
-  - false
-  - true
-  - false
-  - false
   - false
   - false
   - false
@@ -4028,18 +4206,19 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - false
   - false
+  - false
+  - true
+  - false
   - true
   - true
   - false
   - true
-  - true
-  - false
-  - true
   - false
   - false
   - true
   - false
   - false
+  - true
   - false
   - false
   - false
@@ -4079,10 +4258,11 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - true
-  - true
-  - true
   - false
   - false
+  - false
+  - false
+  - true
   - false
   - false
   - false
@@ -4122,96 +4302,11 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - true
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - true
-  - false
   - true
   - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
-  - false
-  - false
   - false
   - false
   - false
@@ -4238,23 +4333,24 @@ decomposition_bounding_spheres_simple_skips:
   - false
 - - false
   - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
   - true
   - false
   - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
   - false
   - false
+  - true
   - false
   - false
   - false
@@ -4280,6 +4376,53 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
 - - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
   - false
   - true
   - true
@@ -4291,13 +4434,11 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - true
-  - true
-  - true
-  - true
-  - false
-  - true
   - false
   - false
+  - false
+  - false
+  - true
   - false
   - false
   - false
@@ -4338,9 +4479,54 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - false
+  - false
+  - false
+  - false
   - true
   - false
   - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - true
+  - false
+  - false
+  - true
   - false
   - false
   - false
@@ -4367,23 +4553,24 @@ decomposition_bounding_spheres_simple_skips:
   - false
 - - false
   - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
   - true
   - false
   - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - true
+  - false
+  - false
+  - true
   - false
   - false
   - false
@@ -4427,6 +4614,51 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - false
   - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - true
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - true
+  - false
+  - false
+  - true
   - false
   - false
   - false
@@ -4456,9 +4688,16 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
-  - true
-  - true
-  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
   - true
   - true
   - true
@@ -4467,11 +4706,49 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - false
+  - false
   - true
   - false
   - false
   - false
   - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - true
+  - false
+  - true
+  - false
+  - true
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
   - false
   - false
   - false
@@ -4499,7 +4776,51 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
   - true
   - false
   - false
@@ -4516,6 +4837,7 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - true
+  - false
   - false
   - false
   - false
@@ -4580,48 +4902,6 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - false
 - - false
   - false
@@ -4645,52 +4925,10 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
   - false
   - true
   - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - false
   - false
   - false
   - false
@@ -4732,10 +4970,6 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - false
-  - true
-  - false
-  - false
-  - false
   - false
   - true
   - false
@@ -4744,44 +4978,6 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - true
-  - true
-  - false
-  - false
-  - false
-  - true
-  - true
   - false
   - false
   - false
@@ -4815,53 +5011,8 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
   - true
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
   - true
   - true
   - true
@@ -4871,46 +5022,6 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
   - false
   - false
   - false
@@ -4952,8 +5063,97 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - true
+  - false
+  - false
   - true
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
   - false
   - false
   - false
@@ -4995,10 +5195,11 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - true
-  - true
-  - true
-  - true
   - false
+  - false
+  - false
+  - false
+  - true
   - false
   - false
   - false
@@ -5049,134 +5250,6 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - true
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
   - true
   - false
   - false
@@ -5210,6 +5283,47 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
   - false
   - false
   - true
@@ -5219,7 +5333,11 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - true
+  - true
+  - true
+  - true
   - false
+  - true
   - true
   - false
   - false
@@ -5253,8 +5371,9 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - true
-  - false
-  - false
+  - true
+  - true
+  - true
   - true
   - true
   - true
@@ -5296,8 +5415,141 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+- - false
   - false
   - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
+  - false
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
+  - true
+  - false
+  - false
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
   - true
   - true
   - true
@@ -5339,180 +5591,9 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - true
-  - false
-  - false
   - true
   - true
   - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - true
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - false
-  - false
-  - true
-  - false
-  - false
-  - false
-  - false
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - true
-  - false
-  - false
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-  - true
-- - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - false
-  - true
-  - false
-  - false
   - true
   - true
   - true
@@ -5554,14 +5635,191 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - true
+  - true
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
   - false
   - false
   - false
   - false
   - true
   - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+- - false
   - false
   - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - true
+  - false
+  - false
+- - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - false
+  - true
+  - false
+  - true
+  - true
+  - false
+  - false
+  - true
+  - true
+  - true
   - true
   - true
   - true
@@ -5599,12 +5857,13 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
   - true
   - true
   - false
   - false
+  - true
+  - true
+  - true
   - true
   - true
   - true
@@ -5642,8 +5901,6 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - false
   - false
-  - false
-  - false
   - true
   - true
   - false
@@ -5651,6 +5908,9 @@ decomposition_bounding_spheres_simple_skips:
   - true
   - true
   - true
+  - true
+  - true
+  - false
   - true
   - true
   - true
@@ -5693,6 +5953,7 @@ decomposition_bounding_spheres_simple_skips:
   - false
   - true
   - true
+  - false
   - false
   - false
   - false
